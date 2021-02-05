@@ -7,7 +7,7 @@ Some Importanat Resources
 
 # Introduction To React
 
-<a href="https://www.freecodecamp.org/news/everything-you-need-to-know-about-react-eaedf53238c4/" target="_blank">Resource</a>
+<a href="https://www.freecodecamp.org/news/everything-you-need-to-know-about-react-eaedf53238c4/" target="_blank">All About React</a>
 
 # SSR vs CSR
 <a href="https://www.freecodecamp.org/news/server-side-rendering-your-react-app-in-three-simple-steps-7a82b95db82e/" target="_blank">Resource-1</a>
