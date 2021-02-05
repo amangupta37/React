@@ -13,13 +13,13 @@ Some Importanat Resources
 <a href="https://www.freecodecamp.org/news/everything-you-need-to-know-about-react-eaedf53238c4/" target="_blank">Basics of React</a>
 
 # SSR vs CSR
-<a href="https://www.freecodecamp.org/news/server-side-rendering-your-react-app-in-three-simple-steps-7a82b95db82e/" target="_blank">How to implement server-side rendering in your React app in three simple steps</a>
+1. <a href="https://www.freecodecamp.org/news/server-side-rendering-your-react-app-in-three-simple-steps-7a82b95db82e/" target="_blank">How to implement server-side rendering in your React app in three simple steps</a>
 
-<a href="https://medium.com/walmartglobaltech/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8#:~:text=Here%20is%20a%20very%20simple,with%20links%20to%20your%20javascript." target="_blank">The Benefits of Server Side Rendering Over Client Side Rendering</a>
+2. <a href="https://medium.com/walmartglobaltech/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8#:~:text=Here%20is%20a%20very%20simple,with%20links%20to%20your%20javascript." target="_blank">The Benefits of Server Side Rendering Over Client Side Rendering</a>
 
-<a href="https://www.freecodecamp.org/news/heres-why-client-side-rendering-won-46a349fadb52/#:~:text=Client%2Dside%20rendering%20supports%20lazy,without%20performing%20a%20full%20postback." target="_blank">Here’s Why Client-side Rendering Won</a>
+3. <a href="https://www.freecodecamp.org/news/heres-why-client-side-rendering-won-46a349fadb52/#:~:text=Client%2Dside%20rendering%20supports%20lazy,without%20performing%20a%20full%20postback." target="_blank">Here’s Why Client-side Rendering Won</a>
 
 
-<a href="https://www.solutelabs.com/blog/client-side-vs-server-side-rendering-what-to-choose-when#:~:text=So%2C%20CSR%20works%20better%20for%20web%20applications%20compared%20to%20SSR.&text=Moreover%2C%20SSR%20also%20ensures%20the,for%20websites%20compared%20to%20CSR." target="_blank">Client-side Vs. Server-side Rendering: What to choose when?</a>
+4. <a href="https://www.solutelabs.com/blog/client-side-vs-server-side-rendering-what-to-choose-when#:~:text=So%2C%20CSR%20works%20better%20for%20web%20applications%20compared%20to%20SSR.&text=Moreover%2C%20SSR%20also%20ensures%20the,for%20websites%20compared%20to%20CSR." target="_blank">Client-side Vs. Server-side Rendering: What to choose when?</a>
 
 
