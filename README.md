@@ -1,7 +1,7 @@
 # React 
 <img src="https://amanguptaofficial.netlify.app/images/download.svg" width="100" height="100"/> 
 
-Some Importanat Resources
+Some Important Resources
 
 ## History of React
 <a href="https://www.simform.com/why-use-react/" target="_blank">Why React !!!</a>
