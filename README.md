@@ -1,6 +1,7 @@
 
 
-# React <img src="https://amanguptaofficial.netlify.app/images/download.svg" width="50" height="50"> 
+# React 
+<img src="https://amanguptaofficial.netlify.app/images/download.svg" width="80" height="80"> 
 
 
 Some Importanat Resources
