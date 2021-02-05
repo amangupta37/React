@@ -7,6 +7,8 @@ Some Importanat Resources
 
 # Introduction To React
 
+<a href="https://reactjs.org/tutorial/tutorial.html#what-is-react" target="_blank">What is React !</a>
+
 <a href="https://www.freecodecamp.org/news/everything-you-need-to-know-about-react-eaedf53238c4/" target="_blank">All About React</a>
 
 # SSR vs CSR
