@@ -3,7 +3,7 @@
 Some Importanat Resources
 
 
-## Introduction To React
+# Introduction To React
 
 <a href="https://www.freecodecamp.org/news/everything-you-need-to-know-about-react-eaedf53238c4/" target="_blank">Resource</a>
 
