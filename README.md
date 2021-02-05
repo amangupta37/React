@@ -1,9 +1,5 @@
-
-
-
-<img src="https://amanguptaofficial.netlify.app/images/download.svg" width="100" height="100"/> 
-
 # React 
+<img src="https://amanguptaofficial.netlify.app/images/download.svg" width="100" height="100"/> 
 
 Some Importanat Resources
 
