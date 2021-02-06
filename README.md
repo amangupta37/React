@@ -13,6 +13,9 @@ Some Important Resources
 <a href="https://www.freecodecamp.org/news/everything-you-need-to-know-about-react-eaedf53238c4/" target="_blank">Basics of React</a>
 
 # SSR vs CSR
+<a href="https://dev.to/kefranabg/demystifying-ssr-csr-universal-and-static-rendering-with-animations-m7d" target="_blank">Demystifying SSR, CSR, universal and static rendering with animations</a>
+
+ 
 1. <a href="https://www.freecodecamp.org/news/server-side-rendering-your-react-app-in-three-simple-steps-7a82b95db82e/" target="_blank">How to implement server-side rendering in your React app in three simple steps</a>
 
 2. <a href="https://medium.com/walmartglobaltech/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8#:~:text=Here%20is%20a%20very%20simple,with%20links%20to%20your%20javascript." target="_blank">The Benefits of Server Side Rendering Over Client Side Rendering</a>
