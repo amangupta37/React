@@ -16,6 +16,10 @@ Some Important Resources
 
 <a href="https://dev.to/reedbarger/the-react-cheatsheet-for-2020-real-world-examples-4hgg" target="_blank">The React Cheatsheet for 2020 📄‬ (+ Real-World Examples)</a>
 
+<a href="https://dev.to/reedbarger/want-to-learn-react-in-2020-here-s-the-blueprint-to-follow-2jdd" target="_blank">Want To Learn React in 2020? Here's The Blueprint to Follow.</a>
+
+
+
 # SSR vs CSR
 1. <a href="https://dev.to/kefranabg/demystifying-ssr-csr-universal-and-static-rendering-with-animations-m7d" target="_blank">Demystifying SSR, CSR, universal and static rendering with animations</a>
 
