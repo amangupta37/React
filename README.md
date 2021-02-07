@@ -11,6 +11,10 @@ Some Important Resources
 <a href="https://reactjs.org/tutorial/tutorial.html#what-is-react" target="_blank">What is React ?</a>
 
 <a href="https://www.freecodecamp.org/news/everything-you-need-to-know-about-react-eaedf53238c4/" target="_blank">Basics of React</a>
+# React Road Map
+
+
+<a href="https://dev.to/reedbarger/the-react-cheatsheet-for-2020-real-world-examples-4hgg" target="_blank">The React Cheatsheet for 2020 📄‬ (+ Real-World Examples)</a>
 
 # SSR vs CSR
 1. <a href="https://dev.to/kefranabg/demystifying-ssr-csr-universal-and-static-rendering-with-animations-m7d" target="_blank">Demystifying SSR, CSR, universal and static rendering with animations</a>
