@@ -13,10 +13,11 @@ Some Important Resources
 <a href="https://www.freecodecamp.org/news/everything-you-need-to-know-about-react-eaedf53238c4/" target="_blank">Basics of React</a>
 # React Road Map
 
+<a href="https://dev.to/reedbarger/want-to-learn-react-in-2020-here-s-the-blueprint-to-follow-2jdd" target="_blank">Want To Learn React in 2020? Here's The Blueprint to Follow.</a>
+
 
 <a href="https://dev.to/reedbarger/the-react-cheatsheet-for-2020-real-world-examples-4hgg" target="_blank">The React Cheatsheet for 2020 📄‬ (+ Real-World Examples)</a>
 
-<a href="https://dev.to/reedbarger/want-to-learn-react-in-2020-here-s-the-blueprint-to-follow-2jdd" target="_blank">Want To Learn React in 2020? Here's The Blueprint to Follow.</a>
 
 
 
