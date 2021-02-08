@@ -51,3 +51,6 @@ Some Important Resources
 6. <a href="https://www.solutelabs.com/blog/client-side-vs-server-side-rendering-what-to-choose-when#:~:text=So%2C%20CSR%20works%20better%20for%20web%20applications%20compared%20to%20SSR.&text=Moreover%2C%20SSR%20also%20ensures%20the,for%20websites%20compared%20to%20CSR." target="_blank">Client-side Vs. Server-side Rendering: What to choose when ?</a>
 
 # SPA vs MPA
+
+<a href="https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58" target="_blank">Single-page application vs. multiple-page application</a>
+
