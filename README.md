@@ -18,7 +18,10 @@ Some Important Resources
 
 <a href="https://dev.to/reedbarger/the-react-cheatsheet-for-2020-real-world-examples-4hgg" target="_blank">The React Cheatsheet for 2020 📄‬ (+ Real-World Examples)</a>
 
+# React Library or Framework
 
+<a href="https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/" target="_blank">The Difference Between a Framework and a Library
+</a>
 
 
 # SSR vs CSR
