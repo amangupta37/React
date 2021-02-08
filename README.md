@@ -23,6 +23,10 @@ Some Important Resources
 <a href="https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/" target="_blank">The Difference Between a Framework and a Library
 </a>
 
+<a href="https://dev.to/temmietope/the-difference-between-a-library-and-a-framework-4jcl" target="_blank">The Difference between a Library and a Framework
+</a>
+
+
 
 # SSR vs CSR
 1. <a href="https://dev.to/kefranabg/demystifying-ssr-csr-universal-and-static-rendering-with-animations-m7d" target="_blank">Demystifying SSR, CSR, universal and static rendering with animations</a>
