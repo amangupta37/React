@@ -27,6 +27,10 @@ Some Important Resources
 </a>
 
 
+<a href="https://stackoverflow.com/questions/3058/what-is-inversion-of-control#:~:text=the%20first%20part.-,What%20is%20it%3F,instance%20creating%20instances%20of%20dependencies." target="_blank">What is Inversion of Control?
+</a>
+
+
 
 # SSR vs CSR
 1. <a href="https://dev.to/kefranabg/demystifying-ssr-csr-universal-and-static-rendering-with-animations-m7d" target="_blank">Demystifying SSR, CSR, universal and static rendering with animations</a>
