@@ -33,6 +33,8 @@ Some Important Resources
 <a href="https://stackoverflow.com/questions/3058/what-is-inversion-ofcontrol#:~:text=the%20first%20part.-,What%20is%20it%3F,instance%20creating%20instances%20of%20dependencies." target="_blank">What is Inversion of Control?
 </a>
 
+# Properties of React
+<a href="https://dev.to/itsjzt/declarative-programming--react-3bh2#:~:text=In%20react%2C%20You%20make%20interactive,the%20DOM%20according%20to%20it.&text=When%20you%20click%20the%20button,when%20we%20change%20the%20state."target="_blank">Why React !!!</a>
 
 
 # SSR vs CSR
