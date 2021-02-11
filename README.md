@@ -36,6 +36,11 @@ Some Important Resources
 # Properties of React
 1. <a href="https://dev.to/itsjzt/declarative-programming--react-3bh2#:~:text=In%20react%2C%20You%20make%20interactive,the%20DOM%20according%20to%20it.&text=When%20you%20click%20the%20button,when%20we%20change%20the%20state." target="_blank"> Declarative Programming & React</a>
 
+2. <a href="https://medium.com/@dan.shapiro1210/understanding-component-based-architecture-3ff48ec0c238" target="_blank">Understanding Component-Based Architecture</a>
+ 
+
+
+
 
 # SSR vs CSR
 1. <a href="https://dev.to/kefranabg/demystifying-ssr-csr-universal-and-static-rendering-with-animations-m7d" target="_blank">Demystifying SSR, CSR, universal and static rendering with animations</a>
