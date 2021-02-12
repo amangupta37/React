@@ -69,6 +69,14 @@ Some Important Resources
 </a>
 
 # Create React App
+
+The React team primarily recommends these solutions:
+
+If you’re learning React or creating a new single-page app, use Create React App.
+If you’re building a server-rendered website with Node.js, try Next.js.
+If you’re building a static content-oriented website, try Gatsby.
+If you’re building a component library or integrating with an existing codebase, try More Flexible Toolchains.
+
 <a href="https://github.com/facebook/create-react-app" target="_blank">A Beginners Guide to React Introduction
 </a>
 
