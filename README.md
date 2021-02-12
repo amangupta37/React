@@ -65,7 +65,8 @@ Some Important Resources
 <a href="https://egghead.io/lessons/react-a-beginners-guide-to-react-introduction" target="_blank">A Beginners Guide to React Introduction
 </a>
 
-
+<a href="https://www.youtube.com/watch?v=DLX62G4lc44&t=573s" target="_blank">Learn React JS - Full Course for Beginners - Tutorial 2019
+</a>
 
 
 
