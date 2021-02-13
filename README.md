@@ -72,7 +72,7 @@ Some Important Resources
 
 The React team primarily recommends these solutions:
 
-If you’re learning React or creating a new SINGLE PAGE APP , use <a href="https://reactjs.org/docs/create-a-new-react-app.html#create-react-app">Create React App</a>. <br>
+If you’re learning React or creating a new <h4>SINGLE PAGE APP</h4> , use <a href="https://reactjs.org/docs/create-a-new-react-app.html#create-react-app">Create React App</a>. <br>
 If you’re building a SERVER-RENDERED website with Node.js, try <a href="https://reactjs.org/docs/create-a-new-react-app.html#nextjs">Next.js</a>.<br>
 If you’re building a static content-oriented website, try Gatsby.<br>
 If you’re building a component library or integrating with an existing codebase, try More Flexible Toolchains.<br>
