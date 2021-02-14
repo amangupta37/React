@@ -14,6 +14,8 @@ here name of fuction is "App()" which is correct
 but if we name our fuction "app()" then it will generate error
 
 */
+
+
 const App = () =>{   // fucntion containing Html code
 
  return <h1>Hello World !!!!</h1>;
