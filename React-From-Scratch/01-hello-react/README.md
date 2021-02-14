@@ -1,5 +1,5 @@
 # Final Output
-<img src="output/output.png">
+<img src="output/outpu.png">
 
 
 # Getting Started with Create React App
