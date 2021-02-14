@@ -71,7 +71,9 @@ Some Important Resources
 # Create React App
 
 <a href="https://github.com/facebook/create-react-app" target="_blank">A Beginners Guide to React Introduction
-</a>
+</a><br>
+
+
 <a href="https://create-react-app.dev/docs/getting-started/" target="_blank">Getting Started with Create React App</a> <br>
 The React team primarily recommends these solutions:
 
