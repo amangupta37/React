@@ -73,6 +73,8 @@ Some Important Resources
 <a href="https://github.com/facebook/create-react-app" target="_blank">A Beginners Guide to React Introduction
 </a>
 
+<a href="https://create-react-app.dev/docs/getting-started/" target="_blank">Getting Started with Create React App</a>
+
 The React team primarily recommends these solutions:
 
 If you’re learning React or creating a new <strong>SINGLE PAGE APP</strong>, use <a href="https://reactjs.org/docs/create-a-new-react-app.html#create-react-app">Create React App</a>. <br>
