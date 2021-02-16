@@ -82,5 +82,10 @@ If you’re building a <strong>SERVER-RENDERED</strong> website with Node.js, tr
 If you’re building a <strong> STATIC CONTENT-ORIENTED </strong> website, try <a href="https://reactjs.org/docs/create-a-new-react-app.html#gatsby">Gatsby</a>.<br>
 If you’re building a component library or integrating with an existing codebase, try <a href="https://reactjs.org/docs/create-a-new-react-app.html#more-flexible-toolchains"> More Flexible Toolchains</a>.<br>
 
+# JSX 
+<a href="https://reactjs.org/doc/introducing-jsx.html" target="_blank">Introducing JSX</a>
+
+
+
 
 
