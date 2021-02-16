@@ -89,13 +89,13 @@ If you’re building a component library or integrating with an existing codebas
 
 <a href="https://reactjs.org/docs/react-without-jsx.html" target="_blank">React Without JSX</a>
 
-<a href="https://www.youtube.com/watch?v=x7cQ3mrcKaY" target="_blank">React: Rethinking best practices by Pete Hunt</a>
 
 
 # Must Watch React Sessions 
-1.<a href="https://www.youtube.com/watch?v=5fG_lyNuEAw&t=56s" target="_blank">Jordan Walke - React to the Future
+1. <a href="https://www.youtube.com/watch?v=5fG_lyNuEAw&t=56s" target="_blank">Jordan Walke - React to the Future
 </a>
 
+2. <a href="https://www.youtube.com/watch?v=x7cQ3mrcKaY" target="_blank">React: Rethinking best practices by Pete Hunt</a>
 
 
 
