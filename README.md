@@ -89,6 +89,9 @@ If you’re building a component library or integrating with an existing codebas
 
 <a href="https://reactjs.org/docs/react-without-jsx.html" target="_blank">React Without JSX</a>
 
+<a href="https://www.youtube.com/watch?v=x7cQ3mrcKaY" target="_blank">React: Rethinking best practices by Pete Hunt</a>
+
+
 
 
 
