@@ -85,6 +85,10 @@ If you’re building a component library or integrating with an existing codebas
 # JSX 
 <a href="https://reactjs.org/doc/introducing-jsx.html" target="_blank">Introducing JSX</a>
 
+<a href="https://www.w3schools.com/react/react_jsx.asp" target="_blank">React JSX</a>
+
+<a href="https://reactjs.org/docs/react-without-jsx.html" target="_blank">React Without JSX</a>
+
 
 
 
