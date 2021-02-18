@@ -61,13 +61,6 @@ Some Important Resources
 
 <a href="https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58" target="_blank">Single-page application vs. multiple-page application</a>
 
-# Best Free Courses
-<a href="https://egghead.io/lessons/react-a-beginners-guide-to-react-introduction" target="_blank">A Beginners Guide to React Introduction
-</a>
-
-<a href="https://www.youtube.com/watch?v=DLX62G4lc44&t=573s" target="_blank">Learn React JS - Full Course for Beginners - Tutorial 2019
-</a>
-
 # Create React App
 
 <a href="https://github.com/facebook/create-react-app" target="_blank">A Beginners Guide to React Introduction
@@ -91,11 +84,20 @@ If you’re building a component library or integrating with an existing codebas
 
 
 
+
 # Must Watch React Sessions 
 1. <a href="https://www.youtube.com/watch?v=5fG_lyNuEAw&t=56s" target="_blank">Jordan Walke - React to the Future
 </a>
 
 2. <a href="https://www.youtube.com/watch?v=x7cQ3mrcKaY" target="_blank">Pete Hunt - React: Rethinking best practices</a>
+
+
+# Best Free Courses
+<a href="https://egghead.io/lessons/react-a-beginners-guide-to-react-introduction" target="_blank">A Beginners Guide to React Introduction
+</a>
+
+<a href="https://www.youtube.com/watch?v=DLX62G4lc44&t=573s" target="_blank">Learn React JS - Full Course for Beginners - Tutorial 2019
+</a>
 
 
 
