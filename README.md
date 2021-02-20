@@ -100,4 +100,10 @@ If you’re building a component library or integrating with an existing codebas
 </a>
 
 
+# React Interview Questions
+
+<a href="https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions" target="_blank">Top 40 ReactJS Interview Questions and Answers in 2021
+</a>
+
+
 
