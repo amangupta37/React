@@ -84,7 +84,8 @@ If you’re building a component library or integrating with an existing codebas
 
 # React Hooks
 
-<a href="https://www.youtube.com/watch?v=dpw9EHDh2bM&feature=youtu.be" target="_blank">React Without JSX</a>
+<a href="https://www.youtube.com/watch?v=dpw9EHDh2bM&feature=youtu.be" target="_blank">React Today and Tomorrow and 90% Cleaner React With Hooks
+</a>
 
 
 
